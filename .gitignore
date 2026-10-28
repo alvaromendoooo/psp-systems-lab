@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build completed from psp-cmake
+build/
+
+# Nvim config involving psp headers and includes from source-code
+.clangd
